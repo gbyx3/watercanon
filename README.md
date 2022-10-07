@@ -1,1 +1,2 @@
-# watercanon
+# Watercanon
+Maker thing project  
